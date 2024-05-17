@@ -10,6 +10,8 @@ Augmented indicates that the traditional process is enhanced with additional cap
 ### Generation 
 Generation refers to the production of new content. In other words it is obtaining output given an input. In our example, after retrieving the relevant information, the Ministry of Education of Cameroon could generate reports, feedback, or responses that are not only based on the internal knowledge or the pre-existing data but also on the most recent and relevant external information available.
 
+![image showing all the processes in RAG system](my_images/RAG.png)
+
 
 # Reasons Why RAG Systems are Used
 RAG systems help in making more informed, accurate, and relevant decisions by dynamically integrating updated information from various sources into the text generation process. Let us explain each of these points clearly below:
